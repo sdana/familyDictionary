@@ -1,0 +1,11 @@
+C:\Users\Seth\Workspace\exercises\familyDictionary\bin\Debug\netcoreapp2.1\familyDictionary.deps.json
+C:\Users\Seth\Workspace\exercises\familyDictionary\bin\Debug\netcoreapp2.1\familyDictionary.runtimeconfig.json
+C:\Users\Seth\Workspace\exercises\familyDictionary\bin\Debug\netcoreapp2.1\familyDictionary.runtimeconfig.dev.json
+C:\Users\Seth\Workspace\exercises\familyDictionary\bin\Debug\netcoreapp2.1\familyDictionary.dll
+C:\Users\Seth\Workspace\exercises\familyDictionary\bin\Debug\netcoreapp2.1\familyDictionary.pdb
+C:\Users\Seth\Workspace\exercises\familyDictionary\obj\Debug\netcoreapp2.1\familyDictionary.csprojAssemblyReference.cache
+C:\Users\Seth\Workspace\exercises\familyDictionary\obj\Debug\netcoreapp2.1\familyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Workspace\exercises\familyDictionary\obj\Debug\netcoreapp2.1\familyDictionary.AssemblyInfoInputs.cache
+C:\Users\Seth\Workspace\exercises\familyDictionary\obj\Debug\netcoreapp2.1\familyDictionary.AssemblyInfo.cs
+C:\Users\Seth\Workspace\exercises\familyDictionary\obj\Debug\netcoreapp2.1\familyDictionary.dll
+C:\Users\Seth\Workspace\exercises\familyDictionary\obj\Debug\netcoreapp2.1\familyDictionary.pdb
